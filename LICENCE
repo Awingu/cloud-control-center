@@ -1,11 +1,3 @@
-C3 - Cloud Control Center
-====================
-
-
-C3 delivers a billing mechanism including an engine that allows payments for IT capacity in a per-unit cost similar to electricity charging. It also provides customer/agent/user abstractions, required for SME/SMB martket. C3 is build on top of the OpenStack.
-
-
-
 The FreeBSD Copyright
 ====================
 
